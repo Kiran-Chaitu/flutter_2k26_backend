@@ -1,4 +1,4 @@
-[
+const students = [
   {
     "USN": "1NC23CI003",
     "Name": "ADITHYA RAJ M",
@@ -195,3 +195,4 @@
     "Branch": "ISE"
   }
 ]
+module.export = students;
