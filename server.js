@@ -15,6 +15,7 @@ app.get("/", (req, res) => {
 
 app.post("/login", (req, res) => {
   try {
+
     const { usn, password } = req.body;
 
     if (!usn || !password) {
@@ -25,7 +26,7 @@ app.post("/login", (req, res) => {
     }
 
     const student = students.find(
-      (item) => item.usn.toLowerCase() === usn.toLowerCase()
+      (item) => item.USN.toLowerCase() === usn.toLowerCase()
     );
 
     if (!student) {
@@ -47,7 +48,11 @@ app.post("/login", (req, res) => {
       message: "Login successful",
       data: student
     });
+
   } catch (error) {
+
+    console.log(error);
+
     return res.status(500).json({
       success: false,
       message: "Internal server error"
