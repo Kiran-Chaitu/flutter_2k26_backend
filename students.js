@@ -351,4 +351,4 @@ const students = [
     "HackerRank": "https://www.hackerrank.com/profile/muktamuttathi_25"
   }
 ];
-module.export = students;
+module.exports = students;
