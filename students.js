@@ -18,7 +18,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/akashacharya0010"
   },
   {
-    "USN": "1NC23CI005",
+    "USN": "1NC23CI007",
     "Name": "ANVITA R N",
     "Branch": "AIML",
     "LinkedIn": "www.linkedin.com/in/anvita-r-n-39ba9a2bb",
@@ -27,7 +27,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/anvitarn00"
   },
   {
-    "USN": "1NC23CI006",
+    "USN": "1NC23CI008",
     "Name": "ARCHITHA T",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/architha-chintu-08288937a/",
@@ -36,7 +36,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/archithachintu"
   },
   {
-    "USN": "1NC23CI007",
+    "USN": "1NC23CI014",
     "Name": "CHIRAKSH S P",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/chiraksh-chiru-4b7945353?utm_source=share_via&utm_content=profile&utm_medium=member_android",
@@ -45,7 +45,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/1nc23ci014"
   },
   {
-    "USN": "1NC23CI008",
+    "USN": "1NC23CI018",
     "Name": "G K MAHITA REDDY",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/g-k-mahita-reddy-4512053ab/",
@@ -54,7 +54,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/gkmahitareddy"
   },
   {
-    "USN": "1NC23CI009",
+    "USN": "1NC23CI026",
     "Name": "K SHASHANK SAI",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/k-shashank-sai-813274300/",
@@ -63,7 +63,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/saishashank5384"
   },
   {
-    "USN": "1NC23CI010",
+    "USN": "1NC23CI029",
     "Name": "KUSUM R S",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/kusum-rs",
@@ -72,7 +72,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/kusumrskusumrs"
   },
   {
-    "USN": "1NC23CI011",
+    "USN": "1NC23CI030",
     "Name": "Likith Kumar K K",
     "Branch": "AIML",
     "LinkedIn": "https://in.linkedin.com/in/likith-liki-undefined-5b11ba301",
@@ -81,7 +81,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/likithliki762"
   },
   {
-    "USN": "1NC23CI012",
+    "USN": "1NC23CI032",
     "Name": "MANJUNATHREDDY",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/manjunath-reddy-0b4777377?utm_source=share_via&utm_content=profile&utm_medium=member_android",
@@ -90,7 +90,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/manjunathpolice2"
   },
   {
-    "USN": "1NC23CI013",
+    "USN": "1NC23CI033",
     "Name": "MATTAM BHAGYASREE",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/mattambhagyasree17/",
@@ -99,7 +99,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/mattambhagyasre1"
   },
   {
-    "USN": "1NC23CI014",
+    "USN": "1NC23CI046",
     "Name": "RAKSHITHA P C",
     "Branch": "AIML",
     "LinkedIn": "www.linkedin.com/in/rakshitha-pc-086995293",
@@ -108,7 +108,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/rakshithapcraks1 "
   },
   {
-    "USN": "1NC23CI015",
+    "USN": "1NC23CI052",
     "Name": "SANJANA SAUNSHI",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/sanjana-saunshi-045918286/",
@@ -117,7 +117,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/sanjanasaunshi44"
   },
   {
-    "USN": "1NC23CI016",
+    "USN": "1NC23CI060",
     "Name": "UJJWALA S V",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/ujjwala-sv/",
@@ -126,7 +126,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/ujjwalasv"
   },
   {
-    "USN": "1NC23CI017",
+    "USN": "1NC24CI400",
     "Name": "CHINTHAN G",
     "Branch": "AIML",
     "LinkedIn": "https://www.linkedin.com/in/chinthan-g-010600309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
@@ -135,7 +135,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/chinthan223"
   },
   {
-    "USN": "1NC23CI018",
+    "USN": "1NC23CS028",
     "Name": "BHARATH KUMAR",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/bharath-gowda-5b44553b6/",
@@ -144,7 +144,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/bharathgowda_cse"
   },
   {
-    "USN": "1NC23CI019",
+    "USN": "1NC23CS056",
     "Name": "DHYAN SANTHOSH BELLARY",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/dhyan-bellary-7560842aa/",
@@ -153,7 +153,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/1nc23cs056 "
   },
   {
-    "USN": "1NC23CI020",
+    "USN": "1NC23CS061",
     "Name": "GAGAN REDDY M S",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/gagan-reddy-67817128a/",
@@ -162,7 +162,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/gaganreddy737"
   },
   {
-    "USN": "1NC23CI021",
+    "USN": "1NC23CS063",
     "Name": "GOWRAV YADAV H L",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/gowrav-yadav-505b4b3b1",
@@ -171,7 +171,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/gowravyadav345"
   },
   {
-    "USN": "1NC23CI022",
+    "USN": "1NC23CS089",
     "Name": "MAHMADAYAN JAVEED ANWAR HAKEEM",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/mahmadayan-hakeem-55a1b9300",
@@ -180,7 +180,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/ayanhakeem20"
   },
   {
-    "USN": "1NC23CI023",
+    "USN": "1NC23CS092",
     "Name": "MANTHAN BASAVARAJ GENNUR",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/manthan-b-gennur-292961374/",
@@ -189,7 +189,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/manthangennur"
   },
   {
-    "USN": "1NC23CI024",
+    "USN": "1NC23CS104",
     "Name": "NIKHIL J N",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/nikhil-gowda-993a56396?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -198,7 +198,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/gowdanikhil871"
   },
   {
-    "USN": "1NC23CI025",
+    "USN": "1NC23CS107",
     "Name": "NISCHITHA T",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/nischitha-gowda-910285384/",
@@ -207,7 +207,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/nischithagowda22"
   },
   {
-    "USN": "1NC23CI026",
+    "USN": "1NC23CS108",
     "Name": "NISHCHAL YADAV D M",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/nishchal-yadav-baa6b4392?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -216,7 +216,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/ny11200411"
   },
   {
-    "USN": "1NC23CI027",
+    "USN": "1NC23CS132",
     "Name": "S NAGENDRAPRASAD",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/s-nagendra-prasad-8a5768383",
@@ -225,7 +225,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/1nc23cs132"
   },
   {
-    "USN": "1NC23CI028",
+    "USN": "1NC23CS164",
     "Name": "TEJASWINI M",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/teju-m-a75a992bb/",
@@ -234,7 +234,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/tejusanju113"
   },
   {
-    "USN": "1NC23CI029",
+    "USN": "1NC23CS170",
     "Name": "VARSHA MANJUNATHSWAMI HIREMATH",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/varsha-hiremath-4318b2374/",
@@ -243,7 +243,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/varshahiremath15"
   },
   {
-    "USN": "1NC23CI030",
+    "USN": "1NC23CS171",
     "Name": "VARSHINI M",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/varshini-m-00ba962bb/",
@@ -252,7 +252,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/varshinimvarshu"
   },
   {
-    "USN": "1NC23CI031",
+    "USN": "1NC23CS172",
     "Name": "VARSHITHA N",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/varshitha-n-46181131b/",
@@ -261,7 +261,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/1nc23cs172"
   },
   {
-    "USN": "1NC23CI032",
+    "USN": "1NC23CS178",
     "Name": "YATHIN GOWDA H K",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/yathin-gowda-h-k-73b343300?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
@@ -270,7 +270,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/1nc23cs178"
   },
   {
-    "USN": "1NC23CI033",
+    "USN": "1NC24CS406",
     "Name": "GOUDARA DODDABASAPPA",
     "Branch": "CSE",
     "LinkedIn": "https://www.linkedin.com/in/g-basava-498a3931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -279,7 +279,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/doddab7"
   },
   {
-    "USN": "1NC23CI034",
+    "USN": "1NC23CD060",
     "Name": "VARALAKSHMI B V",
     "Branch": "DS",
     "LinkedIn": "https://www.linkedin.com/in/varalakshmi-bv-54012b339?utm_source=share_via&utm_content=profile&utm_medium=member_android",
@@ -288,7 +288,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/varalakshmired11"
   },
   {
-    "USN": "1NC23CI035",
+    "USN": "1NC23CD062",
     "Name": "VEMURI PAVANI",
     "Branch": "DS",
     "LinkedIn": "www.linkedin.com/in/v-pavani-242357380",
@@ -297,7 +297,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/pavanivemuri2005"
   },
   {
-    "USN": "1NC23CI036",
+    "USN": "1NC24CD400",
     "Name": "SUKRUTHA N P",
     "Branch": "DS",
     "LinkedIn": "https://www.linkedin.com/in/sukrutha-sukrutha-906764395/",
@@ -306,7 +306,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/sukruthasukruth1"
   },
   {
-    "USN": "1NC23CI037",
+    "USN": "1NC23IS004",
     "Name": "AMAN KUMAR",
     "Branch": "ISE",
     "LinkedIn": "https://www.linkedin.com/in/aman-kumar-391b00273/",
@@ -315,7 +315,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/amansingh9905091"
   },
   {
-    "USN": "1NC23CI038",
+    "USN": "1NC23IS005",
     "Name": "ANKUSH V REDDY",
     "Branch": "ISE",
     "LinkedIn": "",
@@ -324,7 +324,7 @@ const students =[
     "HackerRank": ""
   },
   {
-    "USN": "1NC23CI039",
+    "USN": "1NC23IS028",
     "Name": "KUMARI MUSKAN",
     "Branch": "ISE",
     "LinkedIn": "https://www.linkedin.com/in/kumari-muskan-a31a972bb?utm_source=share_via&utm_content=profile&utm_medium=member_android",
@@ -333,7 +333,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/kumarimuskanncis"
   },
   {
-    "USN": "1NC23CI040",
+    "USN": "1NC23IS033",
     "Name": "MANSI",
     "Branch": "ISE",
     "LinkedIn": "https://www.linkedin.com/in/mansi-singh-ba49aa2bb/",
@@ -342,7 +342,7 @@ const students =[
     "HackerRank": "https://www.hackerrank.com/profile/mansisingh15810"
   },
   {
-    "USN": "1NC23CI041",
+    "USN": "1NC23IS036",
     "Name": "MUKTA PRAKASH MUTTATHI",
     "Branch": "ISE",
     "LinkedIn": "https://www.linkedin.com/in/mukta-muttathi-1659b22bb/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
