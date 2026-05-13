@@ -21,7 +21,7 @@ app.post("/login", (req, res) => {
     if (!usn || !password) {
       return res.status(400).json({
         success: false,
-        message: "Please fill all fields"
+        error: "Please fill all fields"
       });
     }
 
@@ -32,14 +32,14 @@ app.post("/login", (req, res) => {
     if (!student) {
       return res.status(404).json({
         success: false,
-        message: "Student not found"
+        error: "Student not found"
       });
     }
 
     if (password !== "Torii@123") {
       return res.status(401).json({
         success: false,
-        message: "Invalid password"
+        error: "Invalid password"
       });
     }
 
@@ -55,7 +55,7 @@ app.post("/login", (req, res) => {
 
     return res.status(500).json({
       success: false,
-      message: "Internal server error"
+      error: "Internal server error"
     });
   }
 });
